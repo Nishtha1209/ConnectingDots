@@ -1,2 +1,2 @@
 # ConnectingDots
-Digital Platform for Connecting Designers and Clients
+A Digital Platform for Connecting Designers and Clients
