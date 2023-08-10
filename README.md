@@ -1,17 +1,4 @@
-# **React Svg Editor**
-
-###### no svg library used, built from scratch
-
-For any feature request Ping me on linkedIn 👇
-
-[Follow me on linkedin for more interesting projects](https://www.linkedin.com/in/kumar-amresh-1017a7161/)
-
-[Click here to visit site ](https://react-svg-editor.netlify.app/)
-
-## Demo
-
-[![Watch the video](https://img.youtube.com/vi/rqtKGGTlQC4/maxresdefault.jpg)](https://www.youtube.com/watch?v=rqtKGGTlQC4)
-
+# **React UI Editor**
 
 # About
  - React Svg Editor is a powerful design tool that  helps you to create anything: websites, applications, logos, and much more. 
